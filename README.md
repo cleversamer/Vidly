@@ -1,4 +1,4 @@
-Vidly Application
+#Vidly Application
 * Getting started:
 1. Install all dependencies used in both client and server.
 2. Open a new terminal window for the server and run the following command to push some data to MongoDB -> node seed.js
