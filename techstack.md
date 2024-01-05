@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [cleversamerr/Vidly](https://github.com/cleversamerr/Vidly)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|30<br/>Tools used|12/24/23 <br/>Report generated|
+|31<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -204,9 +204,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (14)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (14)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -224,6 +224,7 @@ Full tech stack [here](/techstack.md)
 |[react-router-dom](https://www.npmjs.com/react-router-dom)|v4.3.1|09/18/21|Samer A |MIT|N/A|
 |[react-scripts](https://www.npmjs.com/react-scripts)|v1.1.4|09/18/21|Samer A |MIT|N/A|
 |[react-toastify](https://www.npmjs.com/react-toastify)|v4.5.2|09/18/21|Samer A |MIT|N/A|
+|[winston](https://www.npmjs.com/winston)|v2.4.5|09/17/21|Samer A |MIT|N/A|
 
 <br/>
 <div align='center'>
